@@ -1,1 +1,1 @@
-# Electric_Cash_Counter_System
+# Hotel_Management_System
